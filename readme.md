@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!!
 
-- 🌱 ...trying to deal with thousands of things competing for my attention!
+〴 ⋋_⋌ 〵 It's not who I am underneath, but what I code that defines me. 〴 ⋋_⋌ 〵
 
 
 ### Languages and Tools:
