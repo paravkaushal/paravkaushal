@@ -38,4 +38,4 @@
 <br />
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{paravkaushal}/count.svg) -->
-[![Visits Badge](https://badges.pufler.dev/visits/paravkaushal/paravkaushal)]
+![Visits Badge](https://badges.pufler.dev/visits/paravkaushal/paravkaushal)
