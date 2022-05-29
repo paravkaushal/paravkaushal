@@ -35,4 +35,7 @@
 [twitter]: https://twitter.com/paravkaushal
 [linkedin]: https://linkedin.com/in/paravkaushal
 
-![Visitor Count](https://profile-counter.glitch.me/{paravkaushal}/count.svg)
+<br />
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{paravkaushal}/count.svg) -->
+[![Visits Badge](https://badges.pufler.dev/visits/paravkaushal/paravkaushal)]
