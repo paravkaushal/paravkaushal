@@ -1,9 +1,6 @@
-### Hi there, I'm Parav Kaushal 👋
-
-## I'm a Software Developer!!
+## नमस्ते!, you've reached Parav Kaushal's Github Repository 👋
 
 〴 ⋋_⋌ 〵 It's not who I am underneath, but what I code that defines me. 〴 ⋋_⋌ 〵
-
 
 ### Languages and Tools:
 
@@ -34,12 +31,8 @@
 
 [<img align="left" alt="Parav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Parav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Parav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Parav | CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-[<img align="left" alt="Parav | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 [twitter]: https://twitter.com/paravkaushal
-[instagram]: https://instagram.com/paravkaushal
 [linkedin]: https://linkedin.com/in/paravkaushal
-[codeforces]: https://codeforces.com/profile/blue_sky_?locale=en
-[telegram]: https://t.me/bIue_sky
+
+![Visitor Count](https://profile-counter.glitch.me/{paravkaushal}/count.svg)
